@@ -1,2 +1,3 @@
-Duong Van Tuan
-Xin chao develop
+<?php 
+echo "Duong Van Tuan";
+?>
